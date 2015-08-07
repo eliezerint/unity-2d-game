@@ -1,0 +1,9 @@
+2D- Estilo Mario
+
+cenarios - ( florestas, campos, cidades)
+
+itens - ( moedas para acumular pontos, item especial )
+
+inimigos - ( espinhos no chão ,  
+
+objetivos-( 
